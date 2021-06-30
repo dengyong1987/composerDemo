@@ -1,0 +1,13 @@
+{
+    "name": "dengyong1987/composer-demo",
+    "description": "this is a composer demo",
+    "license": "MIT",
+    "suggest": {
+        "dengyong1987/composer-demo": "don't download"
+    },
+    "autoload": {
+        "psr-4": {
+            "foo\\": "src/"
+        }
+    }
+}
